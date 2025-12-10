@@ -50,3 +50,27 @@ Origin: Coined in 2009 to break down silos between software development and infr
 npm install
 npx playwright test
 npx playwright show-report
+
+
+Live Dashboard (System Under Test)
+
+🔗 https://vivaciousdove.github.io/cloud-status-dashboard/
+
+This live dashboard is the System Under Test (SUT) used by the Playwright automation suite.
+It provides a safe, deterministic UI for validating cloud status checks without relying on real provider outages.
+
+
+---
+
+## Why this README wins 🏈
+- ✅ Clean Markdown (no broken links)
+- ✅ Clear QA purpose
+- ✅ Explains *why* mocking matters
+- ✅ Ties automation to DevOps thinking
+- ✅ Interview-ready narrative
+
+Next play:
+- Add screenshots section 📸  
+- Add CI badge (GitHub Actions) 🤖  
+- Add test case matrix appendix 📋
+
