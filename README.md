@@ -54,7 +54,7 @@ npx playwright show-report
 
 Live Dashboard (System Under Test)
 
-🔗 https://vivaciousdove.github.io/cloud-status-dashboard/
+https://vivaciousdove.github.io/cloud-status-dashboard/
 
 This live dashboard is the System Under Test (SUT) used by the Playwright automation suite.
 It provides a safe, deterministic UI for validating cloud status checks without relying on real provider outages.
